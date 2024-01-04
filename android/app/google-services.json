@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "70428585714",
+    "firebase_url": "https://myproject-74a33-default-rtdb.firebaseio.com",
+    "project_id": "myproject-74a33",
+    "storage_bucket": "myproject-74a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70428585714:android:7f3345db56c667407e6a6b",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70428585714-8b473i3pjb5m7rljafkcpueobj9dfjgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1CKt3-I8VCOdLOdGzhIMSRmATJUjA1A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70428585714-8b473i3pjb5m7rljafkcpueobj9dfjgk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70428585714-nak3dqmd5vp3dj4r9ms1lh3htla03jgj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assignment.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70428585714:android:cc1cd07cd49bd7e97e6a6b",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70428585714-8b473i3pjb5m7rljafkcpueobj9dfjgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1CKt3-I8VCOdLOdGzhIMSRmATJUjA1A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70428585714-8b473i3pjb5m7rljafkcpueobj9dfjgk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70428585714-nak3dqmd5vp3dj4r9ms1lh3htla03jgj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assignment.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
